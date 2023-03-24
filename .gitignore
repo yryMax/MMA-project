@@ -122,3 +122,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+imagefolders1/
+imagefolders2/
+videos1/
+.idea/
+data/
